@@ -1,0 +1,1 @@
+wc is the command which counts the lines, words and characters in the text. It displays as three numbers and is used by adding wc at the end of a command line. Can use wc-l - to just count the lines. wc-m to just count the characters or wc-w to just count the words.

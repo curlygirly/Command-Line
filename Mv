@@ -1,0 +1,2 @@
+MV is th command to move files. It needs two parameters 1. which file to be moved and 2. where to move the file
+Use as mv ../file1 files2
